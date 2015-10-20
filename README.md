@@ -1,3 +1,5 @@
+> OpenNI is not maintained anymore, and its official website was shutdown by 2014 following PrimeSense's acquisition by Apple. OpenNI and its associated middleware is no longer distributed, and as a result this module is no longer maintained. There is a fork called OpenNI 2 which is maintained [here](http://structure.io/openni), but it's not compatible with this module.
+
 # PyOpenNI #
 
 ## Introduction ##
